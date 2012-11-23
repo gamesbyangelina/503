@@ -1,0 +1,740 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x547f80" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x547f80" />
+  <item nodeId="node-0x547f80">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+503 - Service Unavailable
+An Interactive Fiction by Horace The Endless Server Technician
+Release 1 / Serial number 120428 / Inform 7 build 6E72 (I6/v6.31 lib 6/12N) SD
+
+HTTP Error
+You are standing at the entrance to Castle Shotgun. The gates are securely locked, with an unappealing sign on the front. The sign reads &quot;Whoops! RPS is having a bit of a wobbly. Don&apos;t worry, we&apos;ll be back soon!&quot;
+
+To the left of the gates is a large opening in the wall, which Jim is leaning into. John is perched on a small rock nearby, while Alec and Tim are standing on the other side of the gates. A pile of magazines is scattered in a corner.
+
+You can see Nathan, Lewie, Jim, John, Tim, Alec, Adam and a Refresh Button here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">NO</temporary>
+    <children>
+      <child nodeId="node-0x547fd0" />
+      <child nodeId="node-0x5937b0" />
+      <child nodeId="node-0x593ec0" />
+      <child nodeId="node-0x593c20" />
+      <child nodeId="node-0x593bb0" />
+      <child nodeId="node-0x593ad0" />
+      <child nodeId="node-0x593a60" />
+      <child nodeId="node-0x5936d0" />
+      <child nodeId="node-0x5935f0" />
+      <child nodeId="node-0x593510" />
+      <child nodeId="node-0x5932e0" />
+      <child nodeId="node-0x592d70" />
+      <child nodeId="node-0x592ec0" />
+      <child nodeId="node-0x592fa0" />
+      <child nodeId="node-0x593900" />
+      <child nodeId="node-0x592b50" />
+      <child nodeId="node-0x548560" />
+    </children>
+  </item>
+  <item nodeId="node-0x548560">
+    <command xml:space="preserve">look at jim</command>
+    <result xml:space="preserve">His top hat and procedurally-generated facial hair gives him away in a second - this is Jim Rossignol, wordsmith and crazed steampunk inventor.
+
+Jim is hunched over an opening in the Castle Shotgun walls, from which various wires are trailing. There is the occasional spark and fizz as he rummages around.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+  </item>
+  <item nodeId="node-0x592b50">
+    <command xml:space="preserve">talk to quinns</command>
+    <result xml:space="preserve">Quintin remains stoic, staring off into the distance. His cape flaps about a bit in the wind, as if in response to your query.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x592ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x592ba0">
+    <command xml:space="preserve">talk to alec</command>
+    <result xml:space="preserve">Alec seems a bit involved with sticking plastic armour to himself to reply. It&apos;s probably best to leave him alone when he&apos;s arming up, anyway.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x592bf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x592bf0">
+    <command xml:space="preserve">look at alec</command>
+    <result xml:space="preserve">On closer inspection, Alec appears to be gluing bits of Warhammer 40k model armour to his shoulders and chest.
+
+ He looks at you disapprovingly as you stare at his Carnifex.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x592c40" />
+    </children>
+  </item>
+  <item nodeId="node-0x592c40">
+    <command xml:space="preserve">look at Quintin</command>
+    <result xml:space="preserve">Quintin is standing on a small outcrop, hands on hips, looking out eastwards. Unfortunately, east of here is just the M4 corridor, but east is the direction heroes look in, as evidenced by his stony glare.
+ The cape is probably a bit much though, you think to yourself.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x592cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x592cb0">
+    <command xml:space="preserve">look at john</command>
+    <result xml:space="preserve">John sits hunched over on a stone at the foot of Castle Shotgun&apos;s walls, head in hands groaning to himself. There are several empty rum bottles nearby, one of which appears to have an Asda logo on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x592de0" />
+    </children>
+  </item>
+  <item nodeId="node-0x592de0">
+    <command xml:space="preserve">talk to john</command>
+    <result xml:space="preserve">John looks up. &quot;Hmm? No, I didn&apos;t lock us out. We&apos;re just having a bit of trouble with Horace. We&apos;ll have it working again in a tick.&quot;
+
+He resumes nursing his headache.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x592af0" />
+    </children>
+  </item>
+  <item nodeId="node-0x592af0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">HTTP Error
+You are standing at the entrance to Castle Shotgun. The gates are securely locked, with an unappealing sign on the front. The sign reads &quot;Whoops! RPS is having a bit of a wobbly. Don&apos;t worry, we&apos;ll be back soon!&quot;
+
+To the left of the gates is a large opening in the wall, which Jim is leaning into. John is perched on a small rock nearby, while Alec and Quintin are standing on the other side of the gates. A pile of magazines is scattered in a corner.
+
+You can see Jim, John, Quintin, Alec and a Refresh Button here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x592e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x592e50">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="41">YES</temporary>
+  </item>
+  <item nodeId="node-0x593900">
+    <command xml:space="preserve">his f5</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x5940f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5940f0">
+    <command xml:space="preserve">hit button</command>
+    <result xml:space="preserve">Jim looks up from his work. &quot;Don&apos;t even think about it.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x594160" />
+    </children>
+  </item>
+  <item nodeId="node-0x594160">
+    <command xml:space="preserve">hit f5</command>
+    <result xml:space="preserve">Jim looks up from his work. &quot;Don&apos;t even think about it.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="74">YES</temporary>
+  </item>
+  <item nodeId="node-0x592fa0">
+    <command xml:space="preserve">talk to jim</command>
+    <result xml:space="preserve">Jim doesn&apos;t take his head out of the hole in the wall. You hear him muttering to himself.
+
+&quot;It&apos;s never the... well, except that one time when...&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+    <children>
+      <child nodeId="node-0x593010" />
+    </children>
+  </item>
+  <item nodeId="node-0x593010">
+    <command xml:space="preserve">talk to jim</command>
+    <result xml:space="preserve">Jim doesn&apos;t take his head out of the hole in the wall. You hear him muttering to himself.
+
+&quot;Yes, it must be the... no, unless it&apos;s the... Hmm.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+    <children>
+      <child nodeId="node-0x593080" />
+    </children>
+  </item>
+  <item nodeId="node-0x593080">
+    <command xml:space="preserve">talk to jim</command>
+    <result xml:space="preserve">Jim doesn&apos;t take his head out of the hole in the wall. You hear him muttering to himself.
+
+&quot;Of course, it could be the, uh...&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+    <children>
+      <child nodeId="node-0x592d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x592d20">
+    <command xml:space="preserve">talk to jim</command>
+    <result xml:space="preserve">Jim doesn&apos;t take his head out of the hole in the wall. You hear him muttering to himself.
+
+&quot;Yes, it must be the... no, unless it&apos;s the... Hmm.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="33">YES</temporary>
+  </item>
+  <item nodeId="node-0x592ec0">
+    <command xml:space="preserve">hit f5</command>
+    <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="72">YES</temporary>
+    <children>
+      <child nodeId="node-0x592f30" />
+    </children>
+  </item>
+  <item nodeId="node-0x592f30">
+    <command xml:space="preserve">hit button</command>
+    <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="71">YES</temporary>
+  </item>
+  <item nodeId="node-0x592d70">
+    <command xml:space="preserve">fart</command>
+    <result xml:space="preserve">Really? I mean, really? I know that, by anticipating this action, I am partly admitting that I would consider it myself, but we&apos;re at Castle Shotgun here. We have standards. Few standards, for sure, but some.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x593270" />
+    </children>
+  </item>
+  <item nodeId="node-0x593270">
+    <command xml:space="preserve">take magazines</command>
+    <result xml:space="preserve">That&apos;s hardly portable.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="54">YES</temporary>
+  </item>
+  <item nodeId="node-0x5932e0">
+    <command xml:space="preserve">look at Nathan</command>
+    <result xml:space="preserve">Nathan is standing looking grumpily at his getup, which appears to be a weird blend of cowboy hat, Elvis suit, and stars-and-stripes-themed Converse. He notices you looking at him. &quot;Always read contracts, reader. Always, always read contracts before you sign them.&quot;
+
+He reaches into the Elvis suit, produces a small apple pie, and eats it. &quot;It&apos;s not all bad, I suppose.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x593350" />
+    </children>
+  </item>
+  <item nodeId="node-0x593350">
+    <command xml:space="preserve">look at Lewis</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x5933c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5933c0">
+    <command xml:space="preserve">look at Lewiw</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x593430" />
+    </children>
+  </item>
+  <item nodeId="node-0x593430">
+    <command xml:space="preserve">look at Lewie</command>
+    <result xml:space="preserve">You can&apos;t be certain, but it seems that whichever angle you view Lewie from, some kind of angelic glow emanates from behind him. As you approach, he turns to you and smiles. The wallet in your back pocket suddenly feels heavier.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x5934a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5934a0">
+    <command xml:space="preserve">look at Adam</command>
+    <result xml:space="preserve">Given that it&apos;s been a fair few decades since he did anything major in economics, Adam is looking suprisingly sprightly. He&apos;s sitting in front of a large board which seems to represent the entirety of Castle Shotgun. Tiny figurines are standing on hexes on the grid, representing the various writers, and an army of HTTP error codes.
+
+He picks up the model of John and starts making machine gun noises towards the HTTP error models..
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="5">YES</temporary>
+  </item>
+  <item nodeId="node-0x593510">
+    <command xml:space="preserve">look at hole</command>
+    <result xml:space="preserve">You peek at the hole in the wall. There is a mess of wiring and tubes, and what appears to be the midriff of a particularly long animal. You peer down the inside of the wall in both directions, but see no evidence of legs or a head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14">YES</temporary>
+    <children>
+      <child nodeId="node-0x593580" />
+    </children>
+  </item>
+  <item nodeId="node-0x593580">
+    <command xml:space="preserve">look at opening</command>
+    <result xml:space="preserve">You peek at the hole in the wall. There is a mess of wiring and tubes, and what appears to be the midriff of a particularly long animal. You peer down the inside of the wall in both directions, but see no evidence of legs or a head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="13">YES</temporary>
+  </item>
+  <item nodeId="node-0x5935f0">
+    <command xml:space="preserve">give opinion to john</command>
+    <result xml:space="preserve">&quot;Uh... maybe later.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="52">YES</temporary>
+    <children>
+      <child nodeId="node-0x593660" />
+    </children>
+  </item>
+  <item nodeId="node-0x593660">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:
+  a strange love of jetpacks
+  an opinion on just about everything
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="51">YES</temporary>
+  </item>
+  <item nodeId="node-0x5936d0">
+    <command xml:space="preserve">fuck this</command>
+    <result xml:space="preserve">Hey! Language! Especially when we&apos;re around Quintin, he&apos;s had a bad enough example set for him as it is.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0x5930f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5930f0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">HTTP Error
+You are standing at the entrance to Castle Shotgun. The gates are securely locked, with an unappealing sign on the front. The sign reads &quot;Whoops! RPS is having a bit of a wobbly. Don&apos;t worry, we&apos;ll be back soon!&quot;
+
+To the left of the gates is a large opening in the wall, which Jim is leaning into. John is perched on a small rock nearby, while Alec and Quintin are standing on the other side of the gates. A pile of magazines is scattered in a corner.
+
+You can see Jim, John, Quintin, Alec and a Refresh Button here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0x593160" />
+    </children>
+  </item>
+  <item nodeId="node-0x593160">
+    <command xml:space="preserve">take button</command>
+    <result xml:space="preserve">That&apos;s fixed in place.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0x5931d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5931d0">
+    <command xml:space="preserve">push button</command>
+    <result xml:space="preserve">Jim looks up from his work. &quot;Don&apos;t even think about it.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0x593980" />
+    </children>
+  </item>
+  <item nodeId="node-0x593980">
+    <command xml:space="preserve">press button</command>
+    <result xml:space="preserve">Jim looks up from his work. &quot;Don&apos;t even think about it.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0x5939f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5939f0">
+    <command xml:space="preserve">hit button</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+  </item>
+  <item nodeId="node-0x593a60">
+    <command xml:space="preserve">take jim</command>
+    <result xml:space="preserve">I don&apos;t suppose Jim would care for that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="61">YES</temporary>
+  </item>
+  <item nodeId="node-0x593ad0">
+    <command xml:space="preserve">talk to john</command>
+    <result xml:space="preserve">John holds his hand up and paws the air in front of you. &quot;Mmmff.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+    <children>
+      <child nodeId="node-0x593b40" />
+    </children>
+  </item>
+  <item nodeId="node-0x593b40">
+    <command xml:space="preserve">talking to john</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+  </item>
+  <item nodeId="node-0x593bb0">
+    <command xml:space="preserve">fuck you</command>
+    <result xml:space="preserve">Hey! Language! Especially when we&apos;re around Quintin, he&apos;s had a bad enough example set for him as it is.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="52">YES</temporary>
+  </item>
+  <item nodeId="node-0x593c20">
+    <command xml:space="preserve">look at magazines</command>
+    <result xml:space="preserve">You pick up a heavy book. It&apos;s a walkthrough to a game called You Have To Cut The Rope. You flick to page 587 of 900. It&apos;s an exploration of the game&apos;s characters, and the likeness to the Theseus myth. Interesting.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x593c90" />
+    </children>
+  </item>
+  <item nodeId="node-0x593c90">
+    <command xml:space="preserve">look at magazines</command>
+    <result xml:space="preserve">You grab a magazine at random. It&apos;s the latest issue of The Cat magazine! You&apos;ve read this issue at least four times though, so you put it back.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x593d00" />
+    </children>
+  </item>
+  <item nodeId="node-0x593d00">
+    <command xml:space="preserve">look at magazines</command>
+    <result xml:space="preserve">You pick up one of the magazines. It&apos;s the latest issue of Guns And Conversation, John and Jim&apos;s fanzine that they distribute around Bath. The cover story promises &quot;Semi-autos and small talk&quot; and an interview with a man who has invented a talking gun.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x593d70" />
+    </children>
+  </item>
+  <item nodeId="node-0x593d70">
+    <command xml:space="preserve">look at magazines</command>
+    <result xml:space="preserve">You pick up a magazine. It&apos;s an old copy of something called Amiga Power. You toss it back in the pile.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x593de0" />
+    </children>
+  </item>
+  <item nodeId="node-0x593de0">
+    <command xml:space="preserve">look at magazines</command>
+    <result xml:space="preserve">You grab a magazine at random. It&apos;s the latest issue of The Cat magazine! You&apos;ve read this issue at least four times though, so you put it back.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x593e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x593e50">
+    <command xml:space="preserve">talk to john</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+  </item>
+  <item nodeId="node-0x593ec0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">HTTP Error
+You are standing at the entrance to Castle Shotgun. The gates are securely locked, with an unappealing sign on the front. The sign reads &quot;Whoops! RPS is having a bit of a wobbly. Don&apos;t worry, we&apos;ll be back soon!&quot;
+
+To the left of the gates is a large opening in the wall, which Jim is leaning into. John is perched on a small rock nearby, while Alec and Quintin are standing on the other side of the gates. A pile of magazines is scattered in a corner.
+
+You can see Jim, John, Quintin, Alec and a Refresh Button here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="61">YES</temporary>
+    <children>
+      <child nodeId="node-0x593f30" />
+    </children>
+  </item>
+  <item nodeId="node-0x593f30">
+    <command xml:space="preserve">look at magazines</command>
+    <result xml:space="preserve">You pick up one of the magazines. It&apos;s the latest issue of Guns And Conversation, John and Jim&apos;s fanzine that they distribute around Bath. The cover story promises &quot;Semi-autos and small talk&quot; and an interview with a man who has invented a talking gun.
+ You notice a discarded copy of Amiga Power in the pile.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="61">YES</temporary>
+    <children>
+      <child nodeId="node-0x593fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x593fa0">
+    <command xml:space="preserve">look at amiga power</command>
+    <result xml:space="preserve">An old copy of some obscure, arcane tome. The glyphs on the front are mysterious, and appealing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="61">YES</temporary>
+    <children>
+      <child nodeId="node-0x594010" />
+    </children>
+  </item>
+  <item nodeId="node-0x594010">
+    <command xml:space="preserve">take amiga power</command>
+    <result xml:space="preserve">You reach for the magazine, but as you touch it it disintegrates in front of your eyes. In its place are the feet of a man. That man is Kieron Gillen. He smiles down at you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="61">YES</temporary>
+    <children>
+      <child nodeId="node-0x594080" />
+    </children>
+  </item>
+  <item nodeId="node-0x594080">
+    <command xml:space="preserve">look at kieron</command>
+    <result xml:space="preserve">Kieron&apos;s figure is hard to make out, as his very flesh appears to emanate a glowing white light. He floats approximately two inches off the ground, and is wearing glasses which, when peered into, appear to reflect visions of the future and past.
+ He still looks a bit like Jason Statham though.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="61">YES</temporary>
+    <children>
+      <child nodeId="node-0x593740" />
+    </children>
+  </item>
+  <item nodeId="node-0x593740">
+    <command xml:space="preserve">talk to kieron</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="60">YES</temporary>
+  </item>
+  <item nodeId="node-0x5937b0">
+    <command xml:space="preserve">look at Alec</command>
+    <result xml:space="preserve">On closer inspection, Alec appears to be gluing bits of Warhammer 40k model armour to his shoulders and chest.
+
+ Alec clears his throat and tests out his Librarian imitation. It&apos;s not bad.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="12">YES</temporary>
+    <children>
+      <child nodeId="node-0x593890" />
+      <child nodeId="node-0x593820" />
+    </children>
+  </item>
+  <item nodeId="node-0x593820">
+    <command xml:space="preserve">push f5</command>
+    <result xml:space="preserve">Jim looks up from his work. &quot;Don&apos;t even think about it.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="11">YES</temporary>
+  </item>
+  <item nodeId="node-0x593890">
+    <command xml:space="preserve">look at Alec</command>
+    <result xml:space="preserve">On closer inspection, Alec appears to be gluing bits of Warhammer 40k model armour to his shoulders and chest.
+ He picks up a plastic lascannon and tries it out on his left nipple.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9">YES</temporary>
+  </item>
+  <item nodeId="node-0x547fd0">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:
+  a strange love of jetpacks
+  an opinion on just about everything
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0x548400" />
+      <child nodeId="node-0x5484a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5484a0">
+    <command xml:space="preserve">look at opinion</command>
+    <result xml:space="preserve">You&apos;re not really sure where you got this from, but gosh darn if it isn&apos;t usable in plenty of places.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="47">YES</temporary>
+    <children>
+      <child nodeId="node-0x5484f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5484f0">
+    <command xml:space="preserve">give opinion to John</command>
+    <result xml:space="preserve">John doesn&apos;t seem interested.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="46">YES</temporary>
+  </item>
+  <item nodeId="node-0x548400">
+    <command xml:space="preserve">look at strange love of jetpacks</command>
+    <result xml:space="preserve">You&apos;ve had this for as long as you can remember, and why not, indeed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0x548450" />
+    </children>
+  </item>
+  <item nodeId="node-0x548450">
+    <command xml:space="preserve">give strange love of jetpacks to john</command>
+    <result xml:space="preserve">They already have one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+  </item>
+</Skein>
