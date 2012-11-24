@@ -3,7 +3,7 @@
 
 503 - Service Unavailable: the most text-adventurous HTTP error page on the internet
 
-===
+---
 
 Hello there!
 
@@ -12,3 +12,7 @@ Hello there!
 The good news is that because text adventures are quite tiny, we can expand the adventure without overloading the 503 page! So with your help we can expand the adventure to keep people entertained even when the good ship RPS is in dry dock for repairs.
 
 More info on how to get involved coming to this README file soon.
+
+---
+
+To read and use this game file, you'll need the latest version of Inform. Get it here: http://inform7.com/ (it's super-fun)
